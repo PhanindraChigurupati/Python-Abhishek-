@@ -8,4 +8,5 @@ print(s1[::-1]) #Reverse a String
 print(s1.upper())
 print(s1.split("a")) #split by "a"
 print(s2.replace("How","Where"))
+print("hello")
 
